@@ -1,4 +1,7 @@
 # Capstone Project: Wearable Cheating Detection Device
+Achievements
+2nd Place - Research Exhibit 2023, OLFU CCS
+This recognition was awarded for my innovative project at the OLFU College of Computer Studies' Research Exhibit, showcasing my skills in research and development.
 
 ## Components Used (Prototype Phase)
 

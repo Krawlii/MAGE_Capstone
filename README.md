@@ -1,4 +1,4 @@
-# Capstone Project: Wearable Cheating Detection Device
+# Capstone Project: Wearable Ant-Cheating Device with Motion Detection and Alert System using Arduino
 Achievements
 2nd Place - Research Exhibit 2023, OLFU CCS
 This recognition was awarded for our innovative project at the OLFU College of Computer Studies' Research Exhibit, showcasing our team skills in research and development.
